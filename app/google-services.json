@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "803798453348",
+    "firebase_url": "https://timesheet-tripathik.firebaseio.com",
+    "project_id": "timesheet-tripathik",
+    "storage_bucket": "timesheet-tripathik.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803798453348:android:716fed85389351f6",
+        "android_client_info": {
+          "package_name": "ulterion.develop.tripatku.kt_timesheet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "803798453348-tpibasnagss2dhqlmv7ob8t4o2it7pg2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ulterion.develop.tripatku.kt_timesheet",
+            "certificate_hash": "f1e22574ce73fb3a64dbddfef269126187c69543"
+          }
+        },
+        {
+          "client_id": "803798453348-gnrfqqj3ilardomvfkk1cuc2fknpekvo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_f5St1ve3bbMT7s_oeDEjPYXN_sKAsm8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "803798453348-gnrfqqj3ilardomvfkk1cuc2fknpekvo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
